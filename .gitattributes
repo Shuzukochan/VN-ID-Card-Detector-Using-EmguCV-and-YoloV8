@@ -1,3 +1,5 @@
+*.min.c linguist-vendored=false
+
 *.cs linguist-detectable=true  
 *.java linguist-detectable=false  
 *.js linguist-detectable=false  
