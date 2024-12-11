@@ -19,7 +19,7 @@ A simple computer vision project that demonstrates how to use OCR (Optical Chara
 
 6. Click **Start** to begin the process.
 
-7. Choose the **Open Picture** option to select an image, or choose **Webcam Mode** to take a picture directly through the computer's webcam.
+7. First, select **File**, then choose **Open Picture** to select an image, or choose **Webcam Mode** to take a picture directly through the computer's webcam.
 
 8. Select **Tools**, then choose **Crop**. After that, click **Recognize** to extract the text. If you are using Webcam mode, first select **Screenshot** from the **Tools** menu.
 
