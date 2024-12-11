@@ -17,10 +17,18 @@ A simple computer vision project that demonstrates how to use OCR (Optical Chara
 
 5. Start debugging by pressing `F5` or selecting **Start Debugging** from the menu.
 
+6. Click **Start** to begin the process.
+
+7. Choose the **Open Picture** option to select an image, or choose **Webcam Mode** to take a picture directly through the computer's webcam.
+
+8. Select **Tools**, then choose **Crop**. After that, click **Recognize** to extract the text. If you are using Webcam mode, first select **Screenshot** from the **Tools** menu.
+
+9. The extracted text will be returned as the result.
+
 ## Preview
 
-![image](https://github.com/user-attachments/assets/41798595-0502-4952-ae60-0e54bc6612b1)
+![Preview Image](https://github.com/user-attachments/assets/41798595-0502-4952-ae60-0e54bc6612b1)
 
-# Result
+## Result
 
-![image](https://github.com/user-attachments/assets/f2385570-4c51-465e-b8b1-42ace07ad295)
+![Result Image](https://github.com/user-attachments/assets/f2385570-4c51-465e-b8b1-42ace07ad295)
