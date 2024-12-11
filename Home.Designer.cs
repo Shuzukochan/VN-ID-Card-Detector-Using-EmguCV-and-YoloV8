@@ -165,7 +165,7 @@
             Controls.Add(btnStart);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Home";
-            Text = "Detection Căn Cước Công Dân";
+            Text = "Nhận diện và trích xuất thông tin căn cước công dân";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
