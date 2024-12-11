@@ -13,17 +13,17 @@ A simple computer vision project that demonstrates how to use OCR (Optical Chara
 
 3. Open the `CanCuocCongDanDetect.sln` solution file in Visual Studio.
 
-4. Build the solution.
+4. Build the solution by pressing `Ctrl + Shift + B` or by selecting **Build Solution** from the **Build** menu.
 
 5. Start debugging by pressing `F5` or selecting **Start Debugging** from the menu.
 
 6. Click **Start** to begin the process.
 
-7. First, select **File**, then choose **Open Picture** to select an image, or choose **Webcam Mode** to take a picture directly through the computer's webcam.
+7. First, select **File**, then click **Open Picture** to choose an image, or select **Webcam Mode** to take a picture directly through the computer's webcam.
 
-8. Select **Tools**, then choose **Crop**. After that, click **Recognize** to extract the text. If you are using Webcam mode, first select **Screenshot** from the **Tools** menu.
+8. Select **Tools**, then click **Crop**. After clicking **Crop**, the cropped area of the image will be displayed.
 
-9. The extracted text will be returned as the result.
+9. Select **Tools**, then click **Recognize** to extract the text from the image.
 
 ## Preview
 
