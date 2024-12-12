@@ -2,6 +2,8 @@
 
 A simple computer vision project that demonstrates how to use OCR (Optical Character Recognition) on images using EmguCV. This project specifically focuses on recognizing data from Vietnamese ID cards.
 
+---
+
 ## How to Use
 
 1. Clone this project using Git:
