@@ -35,3 +35,5 @@ A simple computer vision project that demonstrates how to use OCR (Optical Chara
 ## Result
 
 ![Result Image](https://github.com/user-attachments/assets/f2385570-4c51-465e-b8b1-42ace07ad295)
+
+---
